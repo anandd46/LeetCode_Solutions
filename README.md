@@ -28,6 +28,26 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/anandd46/LeetCode_Solutions/tree/master/0507-perfect-number) |
+## Array
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
 
 ---
