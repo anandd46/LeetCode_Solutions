@@ -32,6 +32,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anandd46/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anandd46/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
@@ -79,6 +80,18 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anandd46/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
 
 ---
