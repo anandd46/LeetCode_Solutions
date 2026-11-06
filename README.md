@@ -33,6 +33,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anandd46/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anandd46/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
@@ -92,6 +93,15 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+## Hash Table
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
 
 ---
