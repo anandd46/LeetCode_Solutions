@@ -34,6 +34,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anandd46/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anandd46/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -82,6 +83,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/anandd46/LeetCode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
@@ -113,6 +115,14 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/anandd46/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
 
 ---
