@@ -38,6 +38,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anandd46/LeetCode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/anandd46/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anandd46/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
