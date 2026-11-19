@@ -39,6 +39,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anandd46/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anandd46/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -116,6 +117,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anandd46/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
 ## Hash Table
 |  |
@@ -143,6 +145,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/anandd46/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anandd46/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Stack
 |  |
