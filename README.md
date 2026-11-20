@@ -41,6 +41,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | [1882-process-tasks-using-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anandd46/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anandd46/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/anandd46/LeetCode_Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -77,6 +78,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anandd46/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anandd46/LeetCode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anandd46/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/anandd46/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anandd46/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bit Manipulation
@@ -119,6 +121,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anandd46/LeetCode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/anandd46/LeetCode_Solutions/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/anandd46/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Hash Table
 |  |
 | ------- |
