@@ -28,6 +28,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/anandd46/LeetCode_Solutions/tree/master/0507-perfect-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anandd46/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anandd46/LeetCode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Array
@@ -35,6 +36,7 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/anandd46/LeetCode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/anandd46/LeetCode_Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anandd46/LeetCode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anandd46/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anandd46/LeetCode_Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -177,12 +179,21 @@ This workspace is dedicated to tracking my progress in algorithmic problem-solvi
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anandd46/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anandd46/LeetCode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/anandd46/LeetCode_Solutions/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/anandd46/LeetCode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
 
 ---
